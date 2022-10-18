@@ -1,0 +1,18 @@
+div{
+    height: 750px;
+    margin-bottom: 50px;
+    border-radius: 3%;
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.75);
+}
+.bg-1{
+    width: 1000px;
+    margin: auto;           
+    background: 
+    url('img/Download.jfif') top / 5% repeat-x,
+    url('img/images.jfif') bottom / 10% repeat-x,
+    url('img/images\ \(1\).jfif') left / 9% repeat-y, 
+    url('img/images\ \(2\).jfif') right / 9% repeat-y,
+    url('img/IMG_20221003_205005.jpg') center / 70% no-repeat ,
+    url() green 
+    ;
+}
